@@ -1,2 +1,2 @@
 # Philly Tech Sistas
-## Intermediate HTML & CSS
+## Intermediate HTML & CSS course project
